@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-./a.out $BASH_ARGV
